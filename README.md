@@ -20,11 +20,24 @@
 
 ---
 
-### 📫 راه‌های ارتباطی
+### 📊 سطح یادگیری من
+
+| فناوری | سطح (۱ تا ۵) |
+|:------|:------------:|
+| HTML5 | ★★★★☆ |
+| CSS3  | ★★★★☆ |
+| JavaScript | ★★★☆☆ |
+| PHP | ★★★★☆ |
+| MySQL | ★★★☆☆ |
+| Git | ★★★☆☆ |
+
+> *(می‌توانید ستاره‌ها را مطابق با دانش خود تغییر دهید)*
+
+---
+
+### 🌐 راه ارتباطی
 
 <p align="right">
-  <a href="https://rubika.ir/adelshadow"><img src="https://img.shields.io/badge/Rubika-0088CC?style=for-the-badge&logo=rubika&logoColor=white" /></a>
-  <a href="https://t.me/adelshadow"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://Gothambot.ir"><img src="https://img.shields.io/badge/Site-Gothambot.ir-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
