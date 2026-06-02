@@ -20,21 +20,12 @@
 
 ---
 
-### 📊 آمار گیت‌هاب
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&locale=fa" alt="آمار گیت‌هاب" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&locale=fa" alt="زبان‌های پرکاربرد" width="48%" />
-</p>
-
----
-
 ### 📫 راه‌های ارتباطی
 
 <p align="right">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://rubika.ir/adelshadow"><img src="https://img.shields.io/badge/Rubika-0088CC?style=for-the-badge&logo=rubika&logoColor=white" /></a>
+  <a href="https://t.me/adelshadow"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://Gothambot.ir"><img src="https://img.shields.io/badge/Site-Gothambot.ir-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
