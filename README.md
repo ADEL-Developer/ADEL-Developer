@@ -1,8 +1,8 @@
 <h1 align="right">👋 سلام! من یک توسعه‌دهنده وب هستم</h1>
 
 <p align="right">
-من عاشق ساخت اپلیکیشن‌های پویا و ریسپانسیو با استفاده از <strong>PHP</strong>، <strong>JavaScript</strong>، <strong>HTML</strong> و <strong>CSS</strong> هستم. 
-همیشه در حال یادگیری تکنولوژی‌های جدید و به اشتراک‌گذاری پروژه‌های متن‌باز هستم.
+من عاشق ساخت اپلیکیشن‌ها با استفاده از <strong>PHP</strong>، <strong>JavaScript</strong>، <strong>HTML</strong> و <strong>CSS</strong> هستم. 
+همیشه در حال یادگیری تکنولوژی‌های جدید و ساختن اپلیکیشن های جالب و کاربردی هستم
 </p>
 
 ---
